@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="LOGO.png" alt="EdgeSpeed" width="160">
+  <img src="LOGO2.png" alt="EdgeSpeed" width="160">
 </p>
 
 # EdgeSpeed
