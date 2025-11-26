@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.png" alt="EdgeSpeed" width="160">
+</p>
+
 # EdgeSpeed
 
 > A flexible and efficient edge computing framework for ML inference and distributed processing.
